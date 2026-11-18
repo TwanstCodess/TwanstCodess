@@ -1,26 +1,53 @@
----
-[![](https://visitcount.itsvg.in/api?id=TwanstCodess&icon=5&color=9)](https://visitcount.itsvg.in)
-# 💫 About Me:
-I'm energetic, flexible and ambitious person ready or<br>approach any task that I'm required undertake or<br>situation that I'm presented with. la m hard-working <br>and punctual, well- organized and able to work under <br>pressure ... 
+<div align="center">
 
+<img src="assets/hero.svg" width="100%" alt="Twana Muhamad: full-stack developer, AI developer and bug hunter. I build software, teach it to think, then try to break it before anyone else can.">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/twana.muhamad.37266) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/twanstcodes) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@twanstcodes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@twanstcodes) 
+<a href="https://youtube.com/@twanstcodes"><img src="assets/btn-youtube.svg" height="44" alt="YouTube"></a>&nbsp;
+<a href="https://tiktok.com/@twanstcodes"><img src="assets/btn-tiktok.svg" height="44" alt="TikTok"></a>&nbsp;
+<a href="https://instagram.com/twanstcodes"><img src="assets/btn-instagram.svg" height="44" alt="Instagram"></a>&nbsp;
+<a href="https://facebook.com/twana.muhamad.37266"><img src="assets/btn-facebook.svg" height="44" alt="Facebook"></a>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TwanstCodess&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
+## About me
 
+I'm Twana, a developer who builds complete products and then looks at them the way an attacker would. I work across the whole stack, from databases and APIs to web, mobile and desktop interfaces, and I add AI where it makes a product genuinely smarter. As a bug hunter, I test web apps and APIs for vulnerabilities and report what I find responsibly.
 
+I also teach programming in Kurdish through short videos on **twanst.codes**.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TwanstCodess&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
+I'm energetic, ambitious and well organised, I keep my deadlines, and I do some of my best work under pressure.
 
+## How I work
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/twanstcodes) 
+<img src="assets/loop.svg" width="100%" alt="How I work: Build as a full-stack developer, Think as an AI developer, Break as a bug hunter. Every bug I find makes the next build stronger.">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Toolkit
+
+<img src="assets/toolkit.svg" width="100%" alt="Toolkit. Build: JavaScript, TypeScript, PHP, C#, C++, Java, Dart, Python, Ruby, Perl, HTML5, CSS3, Sass, Tailwind CSS, Bootstrap, Chakra UI, MUI, Vue.js, Angular, AngularJS, jQuery, Chart.js, Laravel, Meteor.js, Apache, Flutter, Xamarin, MySQL, MariaDB, SQLite, SQL Server. Think: Python, TensorFlow, PyTorch, scikit-learn, Jupyter, OpenCV, Hugging Face, LangChain, OpenAI API. Break: Kali Linux, Nmap, Burp Suite, Wireshark, Metasploit, OWASP Top 10, Bash, PowerShell, Tor. Tools: Figma, Adobe XD, Photoshop, Illustrator, Canva, Git, Postman, npm, Yarn, Arduino.">
+
+## On GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TwanstCodess&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6" alt="GitHub trophies">
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=TwanstCodess&background=161B36&border=343C6E&stroke=343C6E&ring=A790FF&fire=FF5F5A&currStreakNum=F1F2FA&sideNums=F1F2FA&currStreakLabel=FFB547&sideLabels=9CA4CC&dates=9CA4CC&border_radius=16" width="49%" alt="GitHub contribution streak">
+<img src="https://github-contributor-stats.vercel.app/api?username=TwanstCodess&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=161B36&title_color=FFB547&text_color=F1F2FA&icon_color=A790FF&border_color=343C6E" width="49%" alt="Top contributed repositories">
+
+</div>
+
+## Support my work
+
+If my videos or code have helped you, a coffee helps me make the next one.
+
+<a href="https://buymeacoffee.com/twanstcodes"><img src="assets/btn-coffee.svg" height="48" alt="Buy me a coffee"></a>
+
+<br>
+
+<div align="center">
+<sub>twanst.codes</sub>
+<br>
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=TwanstCodess&icon=5&color=9" alt="Profile views"></a>
+</div>
