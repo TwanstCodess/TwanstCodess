@@ -3,7 +3,7 @@
 <img src="assets/hero.svg" width="100%" alt="Twana Muhamad: full-stack developer, AI developer and bug hunter. I build software, teach it to think, then try to break it before anyone else can.">
 
 <a href="https://youtube.com/@twanstcodes"><img src="assets/btn-youtube.svg" height="44" alt="YouTube"></a>&nbsp;
-<a href="https://tiktok.com/@twanst.codes1"><img src="assets/btn-tiktok.svg" height="44" alt="TikTok"></a>&nbsp;
+<a href="https://tiktok.com/@twanstcodes"><img src="assets/btn-tiktok.svg" height="44" alt="TikTok"></a>&nbsp;
 <a href="https://instagram.com/twanstcodes"><img src="assets/btn-instagram.svg" height="44" alt="Instagram"></a>&nbsp;
 <a href="https://facebook.com/twana.muhamad.37266"><img src="assets/btn-facebook.svg" height="44" alt="Facebook"></a>
 
@@ -29,12 +29,11 @@ I'm energetic, ambitious and well organised, I keep my deadlines, and I do some 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TwanstCodess&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6" alt="GitHub trophies">
+<img src="assets/github-stats.svg" width="100%" alt="GitHub stats and most contributed repositories for TwanstCodess">
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=TwanstCodess&background=161B36&border=343C6E&stroke=343C6E&ring=A790FF&fire=FF5F5A&currStreakNum=F1F2FA&sideNums=F1F2FA&currStreakLabel=FFB547&sideLabels=9CA4CC&dates=9CA4CC&border_radius=16" width="49%" alt="GitHub contribution streak">
-<img src="https://github-contributor-stats.vercel.app/api?username=TwanstCodess&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=161B36&title_color=FFB547&text_color=F1F2FA&icon_color=A790FF&border_color=343C6E" width="49%" alt="Top contributed repositories">
+<img src="https://streak-stats.demolab.com/?user=TwanstCodess&background=161B36&border=343C6E&stroke=343C6E&ring=A790FF&fire=FF5F5A&currStreakNum=F1F2FA&sideNums=F1F2FA&currStreakLabel=FFB547&sideLabels=9CA4CC&dates=9CA4CC&border_radius=16" width="62%" alt="GitHub contribution streak">
 
 </div>
 
@@ -49,5 +48,5 @@ If my videos or code have helped you, a coffee helps me make the next one.
 <div align="center">
 <sub>twanst.codes</sub>
 <br>
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=TwanstCodess&icon=5&color=9" alt="Profile views"></a>
+<img src="https://komarev.com/ghpvc/?username=TwanstCodess&label=Profile%20views&color=343C6E&style=flat" alt="Profile views">
 </div>
