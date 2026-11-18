@@ -3,7 +3,7 @@
 <img src="assets/hero.svg" width="100%" alt="Twana Muhamad: full-stack developer, AI developer and bug hunter. I build software, teach it to think, then try to break it before anyone else can.">
 
 <a href="https://youtube.com/@twanstcodes"><img src="assets/btn-youtube.svg" height="44" alt="YouTube"></a>&nbsp;
-<a href="https://tiktok.com/@twanstcodes"><img src="assets/btn-tiktok.svg" height="44" alt="TikTok"></a>&nbsp;
+<a href="https://tiktok.com/@twanst.codes1"><img src="assets/btn-tiktok.svg" height="44" alt="TikTok"></a>&nbsp;
 <a href="https://instagram.com/twanstcodes"><img src="assets/btn-instagram.svg" height="44" alt="Instagram"></a>&nbsp;
 <a href="https://facebook.com/twana.muhamad.37266"><img src="assets/btn-facebook.svg" height="44" alt="Facebook"></a>
 
