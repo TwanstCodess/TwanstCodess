@@ -11,6 +11,7 @@ The SVGs are written to ../assets/. Fonts are subset and embedded inside
 each SVG, so they look identical on every computer (GitHub blocks external
 fonts inside SVG images).
 """
+import utils.session
 import base64
 import io
 import json
